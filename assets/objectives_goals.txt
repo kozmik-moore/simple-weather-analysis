@@ -1,0 +1,18 @@
+Objective:
+
+I want to develop a data analysis project that demonstrates my competencies in data cleaning, exploratory analysis, time-series analysis, and insight communication, using synthetic weather data.
+
+Introduction:
+
+I am currently transitioning from my job as a math teacher to a job as a data analyst (or data engineer). While I have some formal experience doing data analysis using student test scores to guide lesson planning and course programming, that was mostly done in Excel and at a time where I was far less aware of what data analysis tools existed.
+
+I spent time on DataCamp learning how to use various tools for data analysis. I became better acquainted with Excel, first learned of PowerQuery, learned much more about SQL querying, deepened my experience with Python by discovering libraries built for data analysis and visualization, and returned to using Tableau after having encountered it once in college years ago.
+
+I took a break from all that for a while to work on my writing and returned to find most of my newly acquired skills very rusty. This project is one of a handful to kick the dirt off of the tires, so to speak, and get back into the groove of doing data analysis. This one specifically tackles Python skills.
+
+This project is for anyone looking to evaluate my abilities and methods. It is also for anyone who is looking for an example of a simple data analysis project. The goals of this project are as follows:
+
+- demonstrate my ability with real-world analytical tasks like cleaning and manipulating data
+- demonstrate my ability to identify patterns in data
+- demonstate my ability to produce artifacts like visualizations and written reports
+- demonstrate my ability to communicate information to non-technical audiences in an approachable manner
