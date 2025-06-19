@@ -9,5 +9,5 @@ notebook_dir = Path(join(root_dir, 'notebooks'))
 script_dir = Path(join(root_dir, 'scripts'))
 
 # File paths
-raw_data_path = join(data_dir, 'raw', 'weather_data.csv')
-processed_data_path = join(data_dir, 'processed', 'weather_data_processed.csv')
+raw_data_path = join(data_dir, 'raw_weather.csv')
+processed_data_path = join(data_dir, 'processed_weather.csv')
