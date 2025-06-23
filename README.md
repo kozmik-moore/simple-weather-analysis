@@ -57,6 +57,8 @@ simple-weather-analysis/
 │
 ├── data/
 │ ├── raw_weather.csv
+│ ├── processed_weather.csv
+│ └── duplicates.csv
 │
 ├── notebooks/
 │ └── notebook.ipynb
