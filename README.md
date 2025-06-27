@@ -53,25 +53,17 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 ## 📁 Project Structure
 
 ```
-simple-weather-analysis/
-│
-├── data/
-│ ├── raw_weather.csv
-│ ├── processed_weather.csv
-│ └── duplicates.csv
-│
-├── notebooks/
-│ └── notebook.ipynb
-│
-├── projectconfig/
-│ └── __init__.py
-│ └── config.py
-│
-├── reports/
-│
-├── visuals/
-│
-├── README.md
-│
-└── LICENSE.md
+└── 📁simple-weather-analysis
+    └── 📁code
+        └── 📁utilities
+            ├── __init__.py
+            ├── config.py
+        ├── notebook.ipynb
+    └── 📁data
+        ├── duplicates.csv
+        ├── processed_weather.csv
+        ├── raw_weather.csv
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
 ```
