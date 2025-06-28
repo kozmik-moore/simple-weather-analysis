@@ -11,3 +11,11 @@ products_dir = Path(join(root_dir, 'products'))
 # File paths
 raw_data_path = join(data_dir, 'raw_weather.csv')
 processed_data_path = join(data_dir, 'processed_weather.csv')
+
+# Other variables
+weather_vars = [        # weather variables (as opposed to "time" or "location")
+    'temperature',
+    'humidity',
+    'precipitation',
+    'windspeed'
+]
