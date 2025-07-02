@@ -2,7 +2,7 @@
 
 ## 📍 Overview
 
-This project explores a fictional but realistic weather dataset containing multi-city records of temperature, humidity, precipitation, wind speed, and timestamps. The goal is to simulate a real-world data analysis scenario that supports insights for planning, risk management, and operational decisions.
+This project explores a fictional weather dataset containing multi-city records of temperature, humidity, precipitation, wind speed, and timestamps. The goal is to simulate a real-world data analysis scenario that supports insights for planning, risk management, and operational decisions.
 
 Designed as a portfolio project, it highlights core data analysis skills including exploratory data analysis (EDA), temporal trend evaluation, geographic comparisons, anomaly detection, and stakeholder-style reporting.
 
@@ -53,17 +53,18 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 ## 📁 Project Structure
 
 ```
-└── 📁simple-weather-analysis
-    └── 📁code
-        └── 📁utilities
-            ├── __init__.py
-            ├── config.py
-        ├── notebook.ipynb
-    └── 📁data
-        ├── duplicates.csv
-        ├── processed_weather.csv
-        ├── raw_weather.csv
-    ├── .gitignore
-    ├── LICENSE
-    └── README.md
+.
+├── 📁code
+│   ├── 📁utilities
+│   │   ├── __init__.py
+│   │   └── config.py
+│   └── notebook.ipynb
+├── 📁data
+│   ├── duplicates.csv
+│   ├── processed_weather_log.csv
+│   ├── processed_weather.csv
+│   └── raw_weather.csv
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
