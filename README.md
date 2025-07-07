@@ -64,6 +64,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 │   ├── processed_weather_log.csv
 │   ├── processed_weather.csv
 │   └── raw_weather.csv
+├── .gitattributes
 ├── .gitignore
 ├── LICENSE
 └── README.md
