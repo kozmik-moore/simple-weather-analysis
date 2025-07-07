@@ -61,7 +61,6 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 │   └── notebook.ipynb
 ├── 📁data
 │   ├── duplicates.csv
-│   ├── processed_weather_log.csv
 │   ├── processed_weather.csv
 │   └── raw_weather.csv
 ├── .gitattributes
