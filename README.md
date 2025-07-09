@@ -63,6 +63,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 │   ├── duplicates.csv
 │   ├── processed_weather.csv
 │   └── raw_weather.csv
+├── 📁products
 ├── .gitattributes
 ├── .gitignore
 ├── LICENSE
