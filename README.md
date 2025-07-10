@@ -53,6 +53,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 ## 📁 Project Structure
 
 ```
+```
 └── 📁simple-weather-analysis
     └── 📁assets
     └── 📁code
@@ -93,4 +94,5 @@ Designed as a portfolio project, it highlights core data analysis skills includi
     ├── .gitignore
     ├── LICENSE
     └── README.md
+```
 ```
