@@ -53,6 +53,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 ## 📁 Project Structure
 
 ```
+```
 └── 📁simple-weather-analysis
     └── 📁assets
     └── 📁code
@@ -69,19 +70,19 @@ Designed as a portfolio project, it highlights core data analysis skills includi
         └── 📁images
             └── 📁averages
                 └── 📁month
-                    ├── humidity averages by month.png
-                    ├── precipitation averages by month (without Phoenix).png
-                    ├── precipitation averages by month.png
-                    ├── temperature averages by month (without Phoenix).png
-                    ├── temperature averages by month.png
-                    ├── windspeed averages by month.png
+                    ├── Average humidity by month and location.png
+                    ├── Average precipitation by month (without Phoenix).png
+                    ├── Average precipitation by month and location.png
+                    ├── Average temperature by month (without Phoenix).png
+                    ├── Average temperature by month and location.png
+                    ├── Average windspeed by month and location.png
                 └── 📁time of day
-                    ├── humidity.png
-                    ├── precipitation.png
-                    ├── precipitation(without Phoenix).png
-                    ├── temperature.png
-                    ├── temperature(without Phoenix).png
-                    ├── windspeed.png
+                    ├── Average humidity by time of day and location.png
+                    ├── Average precipitation by time of day and location (without Phoenix).png
+                    ├── Average precipitation by time of day and location.png
+                    ├── Average temperature by time of day and location (without Phoenix).png
+                    ├── Average temperature by time of day and location.png
+                    ├── Average windspeed by time of day and location.png
                 ├── Numeric averages by location.png
             └── 📁distributions
                 ├── humidity_distribution.png
@@ -89,8 +90,10 @@ Designed as a portfolio project, it highlights core data analysis skills includi
                 ├── precipitation_distribution.png
                 ├── temperature_distribution.png
                 ├── windspeed_distribution.png
+            ├── Numeric correlations.png
     ├── .gitattributes
     ├── .gitignore
     ├── LICENSE
     └── README.md
+```
 ```
