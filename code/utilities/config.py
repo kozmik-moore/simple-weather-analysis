@@ -7,6 +7,7 @@ data_dir = Path(join(root_dir, 'data'))
 assets_dir = Path(join(root_dir, 'assets'))
 code_dir = Path(join(root_dir, 'code'))
 products_dir = Path(join(root_dir, 'products'))
+images_dir = join(products_dir, 'images')
 
 # File paths
 raw_data_path = join(data_dir, 'raw_weather.csv')

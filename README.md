@@ -53,19 +53,44 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 ## 📁 Project Structure
 
 ```
-.
-├── 📁code
-│   ├── 📁utilities
-│   │   ├── __init__.py
-│   │   └── config.py
-│   └── notebook.ipynb
-├── 📁data
-│   ├── duplicates.csv
-│   ├── processed_weather.csv
-│   └── raw_weather.csv
-├── 📁products
-├── .gitattributes
-├── .gitignore
-├── LICENSE
-└── README.md
+└── 📁simple-weather-analysis
+    └── 📁assets
+    └── 📁code
+        └── 📁utilities
+            └── 📁__pycache__
+            ├── __init__.py
+            ├── config.py
+        ├── notebook.ipynb
+    └── 📁data
+        ├── duplicates.csv
+        ├── processed_weather.csv
+        ├── raw_weather.csv
+    └── 📁products
+        └── 📁images
+            └── 📁averages
+                └── 📁month
+                    ├── humidity averages by month.png
+                    ├── precipitation averages by month (without Phoenix).png
+                    ├── precipitation averages by month.png
+                    ├── temperature averages by month (without Phoenix).png
+                    ├── temperature averages by month.png
+                    ├── windspeed averages by month.png
+                └── 📁time of day
+                    ├── humidity.png
+                    ├── precipitation.png
+                    ├── precipitation(without Phoenix).png
+                    ├── temperature.png
+                    ├── temperature(without Phoenix).png
+                    ├── windspeed.png
+                ├── Numeric averages by location.png
+            └── 📁distributions
+                ├── humidity_distribution.png
+                ├── numeric_distibutions_boxplot.png
+                ├── precipitation_distribution.png
+                ├── temperature_distribution.png
+                ├── windspeed_distribution.png
+    ├── .gitattributes
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
 ```
