@@ -53,12 +53,10 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 ## 📁 Project Structure
 
 ```
-```
 └── 📁simple-weather-analysis
     └── 📁assets
     └── 📁code
         └── 📁utilities
-            └── 📁__pycache__
             ├── __init__.py
             ├── config.py
         ├── notebook.ipynb
@@ -95,5 +93,4 @@ Designed as a portfolio project, it highlights core data analysis skills includi
     ├── .gitignore
     ├── LICENSE
     └── README.md
-```
 ```
