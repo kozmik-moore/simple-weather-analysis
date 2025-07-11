@@ -1,6 +1,6 @@
-# 🌤️ Simple weather analysis — Multi-City Insights for Climate Trends & Decision Support
+# Simple weather analysis — Multi-City Insights for Climate Trends & Decision Support
 
-## 📍 Overview
+## Overview
 
 This project explores a fictional weather dataset containing multi-city records of temperature, humidity, precipitation, wind speed, and timestamps. The goal is to simulate a real-world data analysis scenario that supports insights for planning, risk management, and operational decisions.
 
@@ -8,7 +8,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Summarize weather patterns by city and season to support high-level operational planning.
 - Identify time periods or cities with extreme or volatile weather conditions.
@@ -18,7 +18,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 
 ---
 
-## ❓ Key Business Questions
+## Key Business Questions
 
 - Which cities experience the most stable or volatile weather conditions throughout the year?
 - What are the seasonal patterns in temperature, humidity, and precipitation across different cities?
@@ -28,7 +28,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 **Columns:**
 - `location` – Name of the city
@@ -42,7 +42,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python:** pandas, NumPy, matplotlib, seaborn
 - **Jupyter Notebook:** for iterative analysis and storytelling
@@ -50,13 +50,14 @@ Designed as a portfolio project, it highlights core data analysis skills includi
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 └── 📁simple-weather-analysis
     └── 📁assets
     └── 📁code
         └── 📁utilities
+            └── 📁__pycache__
             ├── __init__.py
             ├── config.py
         ├── notebook.ipynb
@@ -67,7 +68,12 @@ Designed as a portfolio project, it highlights core data analysis skills includi
     └── 📁products
         └── 📁images
             └── 📁averages
-                └── 📁month
+                └── 📁daily
+                    ├── Daily average for humidity by location.png
+                    ├── Daily average for precipitation by location.png
+                    ├── Daily average for temperature by location.png
+                    ├── Daily average for windspeed by location.png
+                └── 📁monthly
                     ├── Average humidity by month and location.png
                     ├── Average precipitation by month (without Phoenix).png
                     ├── Average precipitation by month and location.png
@@ -76,11 +82,17 @@ Designed as a portfolio project, it highlights core data analysis skills includi
                     ├── Average windspeed by month and location.png
                 └── 📁time of day
                     ├── Average humidity by time of day and location.png
+                    ├── Average precipitation by month (without Phoenix).png
                     ├── Average precipitation by time of day and location (without Phoenix).png
                     ├── Average precipitation by time of day and location.png
+                    ├── Average temperature by month (without Phoenix).png
                     ├── Average temperature by time of day and location (without Phoenix).png
                     ├── Average temperature by time of day and location.png
                     ├── Average windspeed by time of day and location.png
+                    ├── humidity_distribution.png
+                    ├── precipitation_distribution.png
+                    ├── temperature_distribution.png
+                    ├── windspeed_distribution.png
                 ├── Numeric averages by location.png
             └── 📁distributions
                 ├── humidity_distribution.png
