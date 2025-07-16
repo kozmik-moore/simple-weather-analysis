@@ -4,7 +4,7 @@
 
 This project explores a fictional weather dataset containing multi-city records of temperature, humidity, precipitation, wind speed, and timestamps. The goal is to simulate a real-world data analysis scenario that supports insights for planning, risk management, and operational decisions.
 
-Designed as a portfolio project, it highlights core data analysis skills including exploratory data analysis (EDA), temporal trend evaluation, geographic comparisons, anomaly detection, and stakeholder-style reporting. The notebook can be viewed directly [here](/code/notebook.ipynb); my conclusions can be viewed at the end of the notebook.
+Designed as a portfolio project, it highlights core data analysis skills including exploratory data analysis (EDA), temporal trend evaluation, geographic comparisons, anomaly detection, and stakeholder-style reporting. The notebook can be viewed directly [here](/code/notebook.ipynb); my conclusions can be viewed at the end of the notebook or in [the report](/products/report.md).
 
 ---
 
