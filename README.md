@@ -68,6 +68,16 @@ Designed as a portfolio project, it highlights core data analysis skills includi
         └── 📁images
             └── 📁averages
                 └── 📁cumulative
+                    ├── Daily cumulative averages for Chicago.png
+                    ├── Daily cumulative averages for Dallas.png
+                    ├── Daily cumulative averages for Houston.png
+                    ├── Daily cumulative averages for Los Angeles.png
+                    ├── Daily cumulative averages for New York.png
+                    ├── Daily cumulative averages for Philadelphia.png
+                    ├── Daily cumulative averages for Phoenix.png
+                    ├── Daily cumulative averages for San Antonio.png
+                    ├── Daily cumulative averages for San Diego.png
+                    ├── Daily cumulative averages for San Jose.png
                 └── 📁daily
                     ├── Daily average for humidity by location.png
                     ├── Daily average for precipitation by location.png
