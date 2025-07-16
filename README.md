@@ -102,11 +102,13 @@ Designed as a portfolio project, it highlights core data analysis skills includi
                     ├── Daily rolling averages for San Diego.png
                     ├── Daily rolling averages for San Jose.png
                 └── 📁time of day
+                    ├── Average humidity by time of day and location (without Phoenix).png
                     ├── Average humidity by time of day and location.png
                     ├── Average precipitation by time of day and location (without Phoenix).png
                     ├── Average precipitation by time of day and location.png
                     ├── Average temperature by time of day and location (without Phoenix).png
                     ├── Average temperature by time of day and location.png
+                    ├── Average windspeed by time of day and location (without Phoenix).png
                     ├── Average windspeed by time of day and location.png
                 ├── Numeric averages by location.png
             └── 📁distributions
