@@ -118,6 +118,7 @@ Designed as a portfolio project, it highlights core data analysis skills includi
                 ├── temperature_distribution.png
                 ├── windspeed_distribution.png
             ├── Numeric correlations.png
+        ├── report.md
     ├── .gitattributes
     ├── .gitignore
     ├── LICENSE

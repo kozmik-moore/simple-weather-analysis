@@ -1,4 +1,6 @@
-This report can also be read at the end of the [notebook](/code/notebook.ipynb#7.-conclusion).
+# Conclusions
+
+*This report can also be read at the end of the [notebook](/code/notebook.ipynb#7.-conclusion).*
 
 I initially started this project looking to conduct analysis on this data as if it was real-world data with real-world variation. I was going to make recommendations that would assist with planning for seasonal and temporal shifts and extreme weather. This all changed as I realized that this data is highly synthesized and may not reflect any sort of real-world behavior.
 
